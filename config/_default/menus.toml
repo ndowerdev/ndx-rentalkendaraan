@@ -1,0 +1,12 @@
+[[main]]
+  identifier = "Home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  identifier = "RentalMotor"
+  name = "Rental Motor"
+  url = "rentalmotor"
+  weight = 2
+
